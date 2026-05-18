@@ -7,7 +7,7 @@ Arcade Mom é um arcade em navegador com visual pixel-art e tema de Dia das Mãe
 
 ## Vídeo de apresentação
 
-<video src="https://github.com/TGuiDev/dia-das-maes/blob/5ae56236e40371f020a5cdcc0fa8dc63334df03c/src/assets/apresentacao.mp4" controls width="100%">
+<video src="https://youtu.be/yFXCfflHXaA" controls width="100%">
   Seu navegador não suporta a reprodução de vídeo.
 </video>
 
