@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  background: #1a1a1a;
+  color: #fff;
+}
+
+html, body, #root {
+  width: 100%;
+  height: 100%;
+}
+
+.pixel-font {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+}
+
+/* Pixel art style borders */
+.pixel-border {
+  border: 3px solid;
+  /* border-image: linear-gradient(135deg, #00ff00, #ffff00) 1; */
+  box-shadow: inset 0 0 0 3px rgba(0, 255, 0, 0.5);
+}
+
+/* Gradient backgrounds */
+.bg-grass {
+  background: linear-gradient(135deg, #5fa858 0%, #7eb376 50%, #5fa858 100%);
+}
+
+.bg-sky {
+  background: linear-gradient(to bottom, #24242e 0%, #242426 100%);
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "pokemonId": 1,
+    "name": "Voo do Chinelo",
+    "damage": 42,
+    "accuracy": 100,
+    "art": "🩴💨",
+    "description": "Um lançamento certeiro que nunca respeita a distância."
+  },
+  {
+    "id": 2,
+    "pokemonId": 1,
+    "name": "Curva Impossível",
+    "damage": 55,
+    "accuracy": 90,
+    "art": "🩴↪️",
+    "description": "O chinelo faz uma curva absurda e pega o alvo desprevenido."
+  },
+  {
+    "id": 3,
+    "pokemonId": 1,
+    "name": "Estalo de Borracha",
+    "damage": 34,
+    "accuracy": 100,
+    "art": "🩴⚡",
+    "description": "Ataque rápido, fraco, mas confiável."
+  },
+  {
+    "id": 4,
+    "pokemonId": 1,
+    "name": "Disciplina Suprema",
+    "damage": 75,
+    "accuracy": 72,
+    "art": "🩴💥",
+    "description": "Golpe pesado. Quando acerta, muda o rumo da batalha."
+  },
+  {
+    "id": 5,
+    "pokemonId": 2,
+    "name": "Rajada de Guarda-chuva",
+    "damage": 44,
+    "accuracy": 100,
+    "art": "☂️🌬️",
+    "description": "Uma sequência de cutucadas defensivas."
+  },
+  {
+    "id": 6,
+    "pokemonId": 2,
+    "name": "Abre e Fecha",
+    "damage": 58,
+    "accuracy": 88,
+    "art": "☂️🌀",
+    "description": "Confunde o adversário com um movimento barulhento."
+  },
+  {
+    "id": 7,
+    "pokemonId": 2,
+    "name": "Temporal Protetor",
+    "damage": 36,
+    "accuracy": 100,
+    "art": "🌧️☂️",
+    "description": "Dano seguro vindo com bronca de proteção."
+  },
+  {
+    "id": 8,
+    "pokemonId": 2,
+    "name": "Ponta Reforçada",
+    "damage": 82,
+    "accuracy": 68,
+    "art": "☂️💢",
+    "description": "Ataque arriscado, mas muito forte."
+  },
+  {
+    "id": 9,
+    "pokemonId": 3,
+    "name": "Estalo Lendário",
+    "damage": 48,
+    "accuracy": 100,
+    "art": "🟤⚡",
+    "description": "Só o som já coloca medo."
+  },
+  {
+    "id": 10,
+    "pokemonId": 3,
+    "name": "Volta de Couro",
+    "damage": 62,
+    "accuracy": 90,
+    "art": "🟤↩️",
+    "description": "Um golpe flexível que pega o alvo de lado."
+  },
+  {
+    "id": 11,
+    "pokemonId": 3,
+    "name": "Autoridade da Casa",
+    "damage": 70,
+    "accuracy": 82,
+    "art": "🏠🔥",
+    "description": "A presença da Matriarca pesa no campo."
+  },
+  {
+    "id": 12,
+    "pokemonId": 3,
+    "name": "Correção Final",
+    "damage": 96,
+    "accuracy": 60,
+    "art": "🟤💥",
+    "description": "Golpe finalizador. Forte, mas difícil de acertar."
+  },
+  {
+    "id": 13,
+    "pokemonId": 4,
+    "name": "Latido Valente",
+    "damage": 38,
+    "accuracy": 100,
+    "art": "🐶📢",
+    "description": "Caramelo late com coragem e abre espaço para atacar."
+  },
+  {
+    "id": 14,
+    "pokemonId": 4,
+    "name": "Mordidinha de Rua",
+    "damage": 54,
+    "accuracy": 92,
+    "art": "🐶🦷",
+    "description": "Um bote esperto aprendido nas calçadas do bairro."
+  },
+  {
+    "id": 15,
+    "pokemonId": 4,
+    "name": "Soneca Estratégica",
+    "damage": 30,
+    "accuracy": 100,
+    "art": "🐶💤",
+    "description": "Parece descanso, mas é um contra-ataque preguiçoso."
+  },
+  {
+    "id": 16,
+    "pokemonId": 4,
+    "name": "Investida Caramelo",
+    "damage": 78,
+    "accuracy": 76,
+    "art": "🐶💨",
+    "description": "Caramelo corre feito foguete. Muito forte, mas pode passar reto."
+  }
+]

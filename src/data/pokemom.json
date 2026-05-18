@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "Chinelon",
+    "type": "disciplina",
+    "level": 8,
+    "sprite": "./assets/chinelo_havaianas.png",
+    "maxHp": 96,
+    "attack": 78,
+    "defense": 58,
+    "spAtk": 55,
+    "spDef": 62,
+    "description": "Um chinelo ágil, famoso por acertar alvos mesmo depois da curva."
+  },
+  {
+    "id": 2,
+    "name": "Guardachu",
+    "type": "proteção",
+    "level": 12,
+    "sprite": "./assets/guarda_chuva.png",
+    "maxHp": 108,
+    "attack": 88,
+    "defense": 76,
+    "spAtk": 52,
+    "spDef": 72,
+    "description": "Defensivo e teimoso. Sempre aparece quando alguém esquece o casaco."
+  },
+  {
+    "id": 3,
+    "name": "Cintouro",
+    "type": "lendário",
+    "level": 16,
+    "sprite": "./assets/cinta_de_couro.png",
+    "maxHp": 126,
+    "attack": 104,
+    "defense": 86,
+    "spAtk": 68,
+    "spDef": 86,
+    "description": "Criatura lendária da casa. Só aparece quando a conversa fica séria."
+  },
+  {
+    "id": 4,
+    "name": "Caramelo",
+    "type": "vira-lata",
+    "level": 10,
+    "sprite": "./assets/caramelo.png",
+    "maxHp": 118,
+    "attack": 42,
+    "defense": 54,
+    "spAtk": 40,
+    "spDef": 20,
+    "description": "O herói do bairro: resistente, leal e especialista em virar jogo no sufoco."
+  }
+]

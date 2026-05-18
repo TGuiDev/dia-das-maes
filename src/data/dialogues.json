@@ -1,0 +1,89 @@
+{
+  "player": {
+    "trainerName": "Você",
+    "pokemonSent": "Vai, Caramelo! Mostra a força do vira-lata carismático!",
+    "victory": "Caramelo abanou o rabo. Vitória conquistada!",
+    "defeat": "Caramelo cansou, mas não perdeu a pose. Hora de treinar mais."
+  },
+  "1": {
+    "greeting": "Mãe Lurdes apareceu no quintal com olhar de desafio!",
+    "pokemonSent": "Chinelon, entra em campo! Vamos ensinar com carinho e precisão!",
+    "beforeAttack": [
+      "Chinelon, mira com calma!",
+      "Agora vai, meu filho!",
+      "Não corre não que piora!",
+      "É só uma correçãozinha!"
+    ],
+    "hit": [
+      "Acertou em cheio!",
+      "Eu falei que o chinelo fazia curva!",
+      "Isso é técnica de mãe!",
+      "Chinelon não perdoa distração!"
+    ],
+    "missed": [
+      "Passou raspando!",
+      "Caramelo escapou por pouco!",
+      "Esse cachorro é ligeiro demais!",
+      "Na próxima acerta!"
+    ],
+    "healthLow": [
+      "Chinelon, fica firme!",
+      "Mãe acredita em você!",
+      "Ainda dá para virar!"
+    ]
+  },
+  "2": {
+    "greeting": "Dona Maria fechou a cara. A batalha ficou séria!",
+    "pokemonSent": "Guardachu, abre as asas e protege nossa honra!",
+    "beforeAttack": [
+      "Guardachu, postura!",
+      "Mostra por que ninguém sai sem casaco!",
+      "Hora do temporal!",
+      "Proteção também bate!"
+    ],
+    "hit": [
+      "Golpe limpo!",
+      "Essa previsão estava certa!",
+      "Caramelo sentiu o vento!",
+      "Guardachu segurou a pressão!"
+    ],
+    "missed": [
+      "O vento mudou!",
+      "Caramelo desviou bonito!",
+      "Esse vira-lata sabe dançar!",
+      "Recalcula a rota, Guardachu!"
+    ],
+    "healthLow": [
+      "Guardachu, não fecha agora!",
+      "Aguenta firme!",
+      "Ainda tem tempestade pela frente!"
+    ]
+  },
+  "3": {
+    "greeting": "A Matriarca da Casa surgiu. O ar ficou pesado!",
+    "pokemonSent": "Cintouro, criatura lendária da sala, mostre sua autoridade!",
+    "beforeAttack": [
+      "Cintouro, sem hesitar!",
+      "A casa inteira está olhando!",
+      "Mostre o poder da tradição!",
+      "Essa batalha acaba agora!"
+    ],
+    "hit": [
+      "Autoridade aplicada!",
+      "Isso ecoou pela casa!",
+      "Cintouro domina o campo!",
+      "A Matriarca não brinca!"
+    ],
+    "missed": [
+      "Impossível... ele escapou!",
+      "Caramelo é mais rápido do que parece!",
+      "Foi só um desvio de sorte!",
+      "Cintouro vai ajustar o golpe!"
+    ],
+    "healthLow": [
+      "Cintouro, levanta!",
+      "A lenda não cai fácil!",
+      "Ainda somos a última fase!"
+    ]
+  }
+}

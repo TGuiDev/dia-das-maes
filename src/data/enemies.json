@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Mãe",
+    "spriteUrl": "👩",
+    "pokemon": 1,
+    "difficulty": "easy",
+    "title": "Treinadora do Quintal",
+    "winDialogue": "Filho, você ainda precisa treinar mais. Agora vem comer antes que esfrie!",
+    "loseDialogue": "Olha só... Caramelo ficou forte mesmo. Estou orgulhosa, mas lava a louça depois!"
+  },
+  {
+    "id": 2,
+    "name": "Tia Maria",
+    "spriteUrl": "👵",
+    "pokemon": 2,
+    "difficulty": "medium",
+    "title": "Guardião da Bolsa",
+    "winDialogue": "Eu avisei para levar guarda-chuva. Mãe sempre sabe das coisas!",
+    "loseDialogue": "Muito bem. Você aprendeu a se virar, mas leva uma blusa por garantia."
+  },
+  {
+    "id": 3,
+    "name": "Vovó Lurdes",
+    "spriteUrl": "👸",
+    "pokemon": 3,
+    "difficulty": "hard",
+    "title": "Campeã da Sala",
+    "winDialogue": "Ninguém domina esta casa sem passar pela Matriarca!",
+    "loseDialogue": "Você venceu com coragem. Caramelo merece um petisco... e você merece chegar cedo."
+  }
+]
